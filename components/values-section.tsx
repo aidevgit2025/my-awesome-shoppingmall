@@ -30,7 +30,7 @@ export function ValuesSection() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-balance">우리의 핵심 가치</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty leading-relaxed">
-            풍월량 FA션을 만들어가는 네 가지 핵심 원칙
+            둥둥둥 파션을 만들어가는 네 가지 핵심 원칙
           </p>
         </div>
 

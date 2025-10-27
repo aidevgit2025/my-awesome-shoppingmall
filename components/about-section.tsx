@@ -6,7 +6,7 @@ export function AboutSection() {
           <div>
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 text-balance">우리의 이야기</h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
-              <p>풍월량 FA션은 2015년 설립 이후 고객의 라이프스타일을 풍요롭게 하는 패션 브랜드로 성장해왔습니다.</p>
+              <p>둥둥둥 파션은 2015년 설립 이후 고객의 라이프스타일을 풍요롭게 하는 패션 브랜드로 성장해왔습니다.</p>
               <p>
                 우리는 단순히 옷을 판매하는 것이 아니라, 각 개인의 개성과 스타일을 표현할 수 있는 최고의 제품을
                 제공합니다. 지속 가능한 소재와 윤리적인 생산 과정을 통해 패션 산업의 긍정적인 변화를 이끌어가고
@@ -27,7 +27,7 @@ export function AboutSection() {
             </div>
             <div className="relative z-10 h-full flex items-center justify-center">
               <div className="bg-background/90 backdrop-blur-sm px-8 py-4 rounded-lg border shadow-lg">
-                <p className="text-sm font-medium text-foreground">풍월량 FA션 부티크</p>
+                <p className="text-sm font-medium text-foreground">둥둥둥 파션 부티크</p>
               </div>
             </div>
           </div>

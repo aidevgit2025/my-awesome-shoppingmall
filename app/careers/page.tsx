@@ -6,8 +6,8 @@ import Link from "next/link"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "채용정보 - 풍월량 FA션",
-  description: "풍월량 FA션 채용정보 및 지원 자격 요건",
+  title: "채용정보 - 둥둥둥 파션",
+  description: "둥둥둥 파션 채용정보 및 지원 자격 요건",
 }
 
 export default function CareersPage() {
@@ -26,7 +26,7 @@ export default function CareersPage() {
             </Link>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">채용정보</h1>
             <p className="text-lg text-muted-foreground max-w-2xl">
-              풍월량 FA션과 함께 성장할 인재를 찾고 있습니다.
+              둥둥둥 파션과 함께 성장할 인재를 찾고 있습니다.
             </p>
           </div>
 
@@ -116,7 +116,7 @@ export default function CareersPage() {
               <div className="bg-secondary/50 rounded-lg p-6">
                 <h3 className="text-lg font-semibold mb-4">지원 방법</h3>
                 <div className="space-y-3 text-muted-foreground">
-                  <p>이메일 지원: <a href="mailto:hr@poongwolryang.com" className="text-primary hover:underline">hr@poongwolryang.com</a></p>
+                  <p>이메일 지원: <a href="mailto:hr@dungdungdung.com" className="text-primary hover:underline">hr@dungdungdung.com</a></p>
                   <p>제출 서류: 이력서, 자기소개서 (자유형식)</p>
                   <p className="text-sm opacity-80">※ 서류 전형 합격자에 한해 개별 연락드립니다.</p>
                 </div>
@@ -126,9 +126,9 @@ export default function CareersPage() {
 
           {/* 회사 소개 */}
           <div className="bg-secondary/30 rounded-lg p-8">
-            <h2 className="text-2xl font-bold mb-4">풍월량 FA션과 함께하세요</h2>
+            <h2 className="text-2xl font-bold mb-4">둥둥둥 파션과 함께하세요</h2>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              풍월량 FA션은 혁신적인 패션 브랜드로, 각 개인의 개성과 스타일을 표현할 수 있는 최고의 제품을 제공합니다. 
+              둥둥둥 파션은 혁신적인 패션 브랜드로, 각 개인의 개성과 스타일을 표현할 수 있는 최고의 제품을 제공합니다. 
               우리는 지속 가능한 소재와 윤리적인 생산 과정을 통해 패션 산업의 긍정적인 변화를 이끌어가고 있습니다.
             </p>
             <p className="text-muted-foreground leading-relaxed">

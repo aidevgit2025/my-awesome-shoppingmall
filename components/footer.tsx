@@ -4,7 +4,7 @@ export function Footer() {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
-            <h3 className="text-lg font-bold mb-4">풍월량 FA션</h3>
+            <h3 className="text-lg font-bold mb-4">둥둥둥 파션</h3>
             <p className="text-sm opacity-80 leading-relaxed">스타일과 품질이 만나는 곳</p>
           </div>
           <div>
@@ -64,7 +64,7 @@ export function Footer() {
           </div>
         </div>
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-sm opacity-80">
-          <p>© 2025 풍월량 FA션. All rights reserved.</p>
+          <p>© 2025 둥둥둥 파션. All rights reserved.</p>
         </div>
       </div>
     </footer>

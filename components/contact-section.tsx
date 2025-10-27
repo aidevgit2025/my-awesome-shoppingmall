@@ -28,7 +28,7 @@ export function ContactSection() {
           <div>
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 text-balance">문의하기</h2>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-              풍월량 FA션에 대해 궁금하신 점이 있으시면 언제든지 연락주세요. 최선을 다해 답변드리겠습니다.
+              둥둥둥 파션에 대해 궁금하신 점이 있으시면 언제든지 연락주세요. 최선을 다해 답변드리겠습니다.
             </p>
 
             <div className="space-y-6">
@@ -36,7 +36,7 @@ export function ContactSection() {
                 <Mail className="h-6 w-6 mt-1 flex-shrink-0" />
                 <div>
                   <h3 className="font-bold mb-1">이메일</h3>
-                  <p className="text-muted-foreground">contact@poongwolryang.com</p>
+                  <p className="text-muted-foreground">contact@dungdungdung.com</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">

@@ -23,7 +23,7 @@ export function CollectionSection() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-balance">컬렉션</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty leading-relaxed">
-            매 시즌 새로운 영감으로 선보이는 풍월량 FA션의 컬렉션
+            매 시즌 새로운 영감으로 선보이는 둥둥둥 파션의 컬렉션
           </p>
         </div>
 

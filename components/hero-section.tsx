@@ -24,7 +24,7 @@ export function HeroSection() {
           만나는 곳
         </h1>
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8 text-pretty leading-relaxed">
-          풍월량 FA션은 현대적인 감각과 시대를 초월한 우아함을 결합하여 당신만의 스타일을 완성합니다
+          둥둥둥 파션은 현대적인 감각과 시대를 초월한 우아함을 결합하여 당신만의 스타일을 완성합니다
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button size="lg" className="group">
